@@ -9,8 +9,7 @@ Searching and Sorting Algorithms Practices
 - Find a specific element in a data structure
 
 ## **Linear Search**
-
-![Screenshot 2024-09-18 at 10.14.23 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bd88c865-b73b-46b1-a66f-aef526dc0249/6158f2f1-55f1-45ab-85cb-cf69eea9a1c3/Screenshot_2024-09-18_at_10.14.23_AM.png)
+<img width="921" alt="Screenshot 2024-10-21 at 2 03 59 PM" src="https://github.com/user-attachments/assets/2881f050-46aa-4afe-bf1a-4a74bf3c720d">
 
 **Enumerate: returns itterable of (index, element[i])**
 
@@ -34,11 +33,12 @@ Essentially divide list in half and divide that half until the target it found
 
 ## Selection Sort
 
-![Screenshot 2024-09-18 at 10.38.48 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bd88c865-b73b-46b1-a66f-aef526dc0249/dd260091-8c34-4df7-ac78-c78ec7fe3a7c/Screenshot_2024-09-18_at_10.38.48_AM.png)
+<img width="786" alt="Screenshot 2024-10-21 at 2 02 43 PM" src="https://github.com/user-attachments/assets/8f034f0b-413c-4eef-b30d-9f8a1f32dbb2">
 
 ## Insertion Sort
 
-![Screenshot 2024-09-18 at 10.45.22 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bd88c865-b73b-46b1-a66f-aef526dc0249/ad282fb5-b77e-4da2-a030-53d616b672c0/Screenshot_2024-09-18_at_10.45.22_AM.png)
+<img width="761" alt="Screenshot 2024-10-21 at 2 02 58 PM" src="https://github.com/user-attachments/assets/0d477553-d063-42b5-a873-12e4b91947ed">
+
 
 ## Merge Sort
 
